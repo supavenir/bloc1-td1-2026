@@ -1,4 +1,4 @@
-# Bloc 1 — Développer la présence en ligne de l’organisation
+# Bloc 1 — Client/server web - Architecture
 Durée indicative: 3 h  
 Thème: Client–Serveur Web / Architecture
 
